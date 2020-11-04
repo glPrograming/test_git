@@ -8,14 +8,15 @@ public class User {
     private String name;
     private String email;
 
-    private  String work;
+    private  String work2;
+    private String address;
 
-    public String getWork() {
-        return work;
+    public String getWork2() {
+        return work2;
     }
 
-    public void setWork(String work) {
-        this.work = work;
+    public void setWork2(String work) {
+        this.work2 = work;
     }
 
     public String getName() {
